@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ABBISHEK PM
 ===================================================================================================================================
 
-![A man coding](https://github.com/abbishekprabhu/abbishekprabhu/assets/98374007/e29108b0-6724-45ad-a174-efaf35184cac)
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
 Frontend Developer
 ------------------
