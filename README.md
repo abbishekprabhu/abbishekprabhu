@@ -57,7 +57,7 @@ src="https://img.shields.io/twitch/status/abbishekprabhu?logo=twitchsx&style=for
 
 <a href="https://github.com/abbishekprabhu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbishekprabhu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/abbishekprabhu/abbishekprabhu.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abbishekprabhu&repo=abbishekprabhu.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
